@@ -12,7 +12,7 @@ Increase the wind forcast accuracy at the Lauttasaari kite spot (Kasinoranta and
 - Sometimes the windforcast is completely wrong
 
 ## NOTES:
-Similar implementaion allready exists in Oulu and the website for the improved wind direction can be found at https://hawaji.azurewebsites.net.
+Similar implementaion allready exists in Oulu and the website for the improved wind forcast can be found at https://hawaji.azurewebsites.net.
 
 In the Oulu example a strong correlation was found that the actual wind is considerable stronger than the forcasted.  It seems that in Laru the opposite is true.
 
